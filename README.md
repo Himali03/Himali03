@@ -44,9 +44,9 @@ Created responsive web apps and worked on frontend-backend integration.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himali-acharya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" style="border:none;" />
   </a>
   <a href="mailto:himaliacharya29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" style="border:none;" />
   </a>
 </p>
