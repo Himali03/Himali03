@@ -1,44 +1,61 @@
-Hi there! 👋 I'm Himali
+<h1 align="center">Hi 👋, I'm <b>Himali</b></h1>
+<h3 align="center">Final-year CSE student | Web Dev + AI/ML Enthusiast</h3>
 
-🎓 Final-year Computer Science student
-💻 Interested in Web Development, AI/ML, and building real-world applications
+---
 
-🌱 About Me
+### 👩‍💻 About Me  
+- 🎓 Final-year Computer Science student  
+- 💡 Interested in Web Development and AI/ML  
+- ⚙️ I enjoy building practical, real-world projects  
+- 🌱 Currently learning and improving through hands-on work  
 
-I enjoy building simple, practical applications and learning by doing.
-My interests lie in web development and exploring how AI/ML can be applied to solve real problems.
-I like working on projects that combine logic, design, and usability.
+---
 
-🛠️ Skills
+### 🛠️ Tech Stack  
 
-Languages:
-Java, Python, JavaScript
+**Languages**  
+Java • Python • JavaScript  
 
-Web Development:
-HTML, CSS, React
+**Web Development**  
+HTML • CSS • React  
 
-Tools & Technologies:
-Git, AWS (basic), SQL
+**Tools & Technologies**  
+Git • AWS (basic) • SQL  
 
-Core Concepts:
-Data Structures, OOP, Problem Solving
+**Core Concepts**  
+Data Structures • OOP • Problem Solving  
 
-🚀 Projects
+---
 
-Insider Threat Detection System
-Worked on analyzing user behavior patterns to identify potential risks using machine learning techniques.
+### 🚀 Projects  
 
-AI-based Health Monitoring System
-Developing a system that uses ML models for health insights and tracking.
+🔹 **Insider Threat Detection System**  
+Worked on analyzing user behavior patterns to detect potential risks using ML techniques.  
 
-Web Development Projects
-Built responsive web interfaces and worked on integrating frontend with backend logic.
+🔹 **AI-based Health Monitoring System**  
+Building a system for health tracking and insights using machine learning.  
 
-📌 What I’m Looking For
+🔹 **Web Development Projects**  
+Created responsive web apps and worked on frontend-backend integration.  
 
-I’m currently looking for opportunities where I can learn, contribute, and gain hands-on experience in development and real-world problem solving.
+---
 
-📫 Connect with Me
+### 📊 GitHub Stats  
 
-[LinkedIn](https://www.linkedin.com/in/himali-acharya/)  
-[Email Me](mailto:himaliacharya29@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+### 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himali-acharya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:himaliacharya29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
